@@ -1,0 +1,8 @@
+# Editor files
+.project
+.texlipse
+.vscode/
+
+# Python
+*.pyc
+__pycache__
