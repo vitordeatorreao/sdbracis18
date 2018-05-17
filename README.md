@@ -1,5 +1,4 @@
-#Effects of Population Initialization on Evolutionary Techniques for
-#Subgroup Discovery in High Dimensional Datasets
+# Effects of Population Initialization on Evolutionary Techniques for Subgroup Discovery in High Dimensional Datasets
 
 In this repository you will find the support material for the paper entitled
 "Effects of Population Initialization on Evolutionary Techniques for Subgroup
