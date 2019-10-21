@@ -32,6 +32,6 @@ scikit-learn==0.19.1
 scipy==1.0.1
 serverfiles==0.2.1
 six==1.11.0
-urllib3==1.22
+urllib3==1.24.2
 wrapt==1.10.11
 xlrd==1.1.0
